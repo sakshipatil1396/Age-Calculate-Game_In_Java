@@ -58,15 +58,19 @@ This project is a **Java-based GUI application** that allows users to register a
 This project is licensed under the **MIT License**.
 
 ## 🎉Result
-## 1>Registration Page
+## 1. Registration Page
 ![image](https://github.com/user-attachments/assets/4c391a6f-3cc0-4856-970b-e0595d1f710d)
-## 2> Notice Page
+
+## 2. Notice Page
 ![image](https://github.com/user-attachments/assets/ebf80023-5309-4a60-bf3a-8bbdd619521a)
-## 3> Login Page
+
+## 3. Login Page
 ![image](https://github.com/user-attachments/assets/964d3c87-f9f9-4019-a8a9-1c8de204cdcd)
-## 4> Quizes
+
+## 4. Quizes
 ![image](https://github.com/user-attachments/assets/dad70570-c962-4838-bca3-2f7e83d0972d)
-## 5> Predict Your Mental Age Based on Your Previous Responses.
+
+## 5. Predict Your Mental Age Based on Your Previous Responses.
 ![image](https://github.com/user-attachments/assets/577d6162-2f1a-41cf-a0e0-3203e93e0e1f)
 
 ## Hope You Enjoy Game.
